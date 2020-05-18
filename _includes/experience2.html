@@ -1,8 +1,8 @@
 <section class="section experience">
-  <div class="section__title">Off-Campus Experience</div>
+  <div class="section__title">On-Campus Experience</div>
   <div class="section__content">
     <div class="jobs">
-      {% for job in site.data.experience %}
+      {% for job in site.data.experience2 %}
       <div class="job">
         <div class="time-place">
           <div class="job__company">
@@ -12,11 +12,8 @@
         </div>
         <div class="job__position">{{job.position}}</div>
         <div class="job__description">{{job.description}}</div>
-        <!-- <br> -->
       </div>
       {% endfor %}
     </div>
-
-    <!-- <a href="{{site.resume}}" target="_blank" class="arrow-link">View My Resume</a> -->
   </div>
 </section>

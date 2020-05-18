@@ -1,24 +1,25 @@
 <section class="section other-projects">
-  <div class="section__title">Selected Projects</div>
+  <div class="section__title">Research</div>
   <div class="section__content">
-    {% for project in site.data.other-projects %}
+    {% for project in site.data.research %}
     <div class="project">
       <div class="project__name">
         <a href="{{project.url}}" target="_blank" class="arrow-link">{{project.name}}</a>
       </div>
       <div class = "job__position">
         <div class="height_adjust_up">
-          With {{project.collaborators}}
+          {{project.collaborators}}
         </div>
       </div>
       <div class = "job__description">
         {{project.description}}
       </div>
-      <div class="project__used">
+      
+<!--       <div class="project__used">
         {% for item in project.used %}
         <span class="project__used__item">{{item.thing}}</span>
         {% endfor %}
-      </div>
+      </div> -->
     </div>
     {% endfor %}
   </div>

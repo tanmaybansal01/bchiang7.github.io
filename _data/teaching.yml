@@ -1,0 +1,26 @@
+- company: Introduction to Machine Learning (INFO 1998)
+  url: https://cornelldatascience.github.io/info1998/
+  time: Spring 2020, Fall 2019, Spring 2019
+  position: Lecturer
+  description: Official student-run course imparting fundamental implementation-based data science skills.
+
+- company: Text Mining for History and Literature (INFO 3350 / INFO 6350)
+  url: https://mimno.infosci.cornell.edu/info3350/
+  time: Fall 2020 (D. Mimno)
+  position: Teaching Assistant
+  description: Corpus curation, Similarity, Classification, Clustering, Topic Modeling, Interpretation
+
+- company: Intro to Computing using Python (CS 1110)
+  url: https://www.cs.cornell.edu/courses/cs1110/2018sp/
+  time: Spring 2019 (A. Bracy), Fall 2020 (W. White)
+  position: Course Consultant
+  description: Helped introduce 650+ students from diverse academic backgrounds to Computer Science.
+
+
+# Recently, my team built a data strategy & a predictive tool to locate trafficked children for a client.
+
+# - company: Other
+#   url:
+#   time: Aug 2017 - Present
+#   position: 
+#   description: Alumni Affairs & Development, CALS Ambassadors, Cornell Cooperative Extension (Former)

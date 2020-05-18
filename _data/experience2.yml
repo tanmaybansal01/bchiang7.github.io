@@ -1,0 +1,31 @@
+- company: Cornell Data Science
+  url: https://cornelldata.science/
+  time: June 2018 - Present
+  position: Education Lead
+  description: I lead an official machine learning course, workshops, and online tutorial repositories.
+
+- company: Social Business Consulting
+  url: https://www.sbccornell.org/
+  time: Feb 2018 - Present
+  position: Senior Advisor / Former Project Manager
+  description: I've helped 4 different social entreprises with data strategy, expansion strategy, or retail entry.   
+
+- company: Cornell Mars Rover
+  url: https://marsrover.engineering.cornell.edu/
+  time: Aug 2017 - May 2019
+  position: Business & Design Lead
+  description: I managed finances, operations, and outreach as our team built a semi-autonomous rover.
+
+
+# Recently, my team built a data strategy & a predictive tool to locate trafficked children for a client.
+- company: Tarana A Cappella
+  url: https://www.cornelltarana.net/
+  time: Aug 2017 - Present
+  position: Beatboxer
+  description: I <a href="https://www.youtube.com/watch?v=VHlzjTTcKiI&feature=emb_title">perform</a> and <a href="https://youtu.be/W0EImXTuL4Q">record</a> with my group - it's one of my favorite things on campus.
+
+- company: Other
+  url:
+  time: Aug 2017 - Present
+  position: 
+  description: Alumni Affairs & Development, CALS Ambassadors, Cornell Cooperative Extension (Former)
