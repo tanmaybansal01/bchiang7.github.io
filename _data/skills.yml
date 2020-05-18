@@ -6,9 +6,10 @@ languages:
 
 frameworks:
   - item: <a href="https://www.imdb.com/title/tt8228288/?ref_=fn_al_tt_1">The Platform</a>
+  - item: <a href="https://www.imdb.com/title/tt7784604/">Hereditary</a>
   - item: <a href="https://www.imdb.com/title/tt1596363/">The Big Short</a>
   - item: <a href="https://www.imdb.com/title/tt0268978/">A Beautiful Mind</a>
-  - item: <a href="https://www.imdb.com/title/tt7784604/">Hereditary</a>
+
   
 tools:
   - item: <a href="https://open.spotify.com/album/6PBZN8cbwkqm1ERj2BGXJ1">Kendrick Lamar</a>
