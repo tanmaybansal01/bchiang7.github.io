@@ -1,12 +1,12 @@
-- name: CUSmile - An Uplifting News Aggregator
-  url: https://cusmile.herokuapp.com/
-  collaborators: Alina Kim, Camilo Cedeno-Tobon, Ein Chang, Jennifer Lee
-  description: Developed a web app dedicated to presenting uplifting news from multiple sources.
-  used:
-    - thing: Information Retrieval
-    - thing: Machine Learning
-    - thing: HTML/CSS
-    - thing: Python
+# - name: CUSmile - An Uplifting News Aggregator
+#   url: https://cusmile.herokuapp.com/
+#   collaborators: Alina Kim, Camilo Cedeno-Tobon, Ein Chang, Jennifer Lee
+#   description: Developed a web app dedicated to presenting uplifting news from multiple sources.
+#   used:
+#     - thing: Information Retrieval
+#     - thing: Machine Learning
+#     - thing: HTML/CSS
+#     - thing: Python
 
 # - name: Identifying Risk Regions for Mass Shootings in America
 #   url: https://github.com/tanmaybansal01/orie4741-f19/blob/master/Final_Report.pdf
