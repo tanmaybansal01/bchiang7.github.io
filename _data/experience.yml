@@ -1,3 +1,9 @@
+- company: Tesla
+  url: https://www.tesla.com/
+  time: Aug 2020 - Jan 2020
+  position: Incoming Data Science Intern
+  # description: Working in the Advanced Analytics and Machine Learning (AAML) group.
+
 - company: Morgan Stanley
   url: https://www.morganstanley.com/
   time: June 2020 - Aug 2020
