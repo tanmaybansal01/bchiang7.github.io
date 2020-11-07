@@ -1,12 +1,13 @@
+- name: Behavioral Finance and COVID-19 - Cognitive Errors that Determine the Financial Future
+  url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3595749
+  collaborators: Tanmay Bansal
+  description: Surveyed how psychological shortcomings of investors are reflected in the market crash of 2020 and may continue to influence markets in near future. This paper is part of the required reading for
+  FNCE 6300 - a finance and macroeconomics course for masters students at the University of Colorado (as of Fall '20)
+
 - name: The Effects of Choice Architecture, Financial Literacy, and Financial Behaviors on Personal Savings
   url: https://cals.cornell.edu/news/tanmay-bansal-21-studying-behavioral-science-interventions
   collaborators: Tanmay Bansal, Adrianne Han, and Miles Wittenberg
   description: Investigated a choice architecture intervention and evaluated how financial literacy, awareness, educational attainment, and gender identity correlate with savings.
-
-- name: Behavioral Finance and COVID-19 - Cognitive Errors that Determine the Financial Future
-  url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3595749
-  collaborators: Tanmay Bansal
-  description: Surveyed how psychological shortcomings of investors are reflected in the market crash of 2020 and may continue to influence markets in near future.
 
 - name: Globalization - A Computational Perspective
   url: http://www.abshahid.com/

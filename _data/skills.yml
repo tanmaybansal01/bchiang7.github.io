@@ -1,8 +1,7 @@
 languages:
+  - item: <a href="https://www.amazon.com/Accidental-Universe-World-Thought-Knew/dp/034580595X">The Accidental Universe</a>
   - item: <a href="https://www.bitbybitbook.com/">Bit by Bit</a>
   - item: <a href="https://www.penguinrandomhouse.com/books/304634/nudge-by-richard-h-thaler-and-cass-r-sunstein/">Nudge</a>
-  - item: <a href="http://www.kasparov.com/deep-thinking-ai/">Deep Thinking</a>
-
 
 frameworks:
   - item: <a href="https://www.imdb.com/title/tt8228288/?ref_=fn_al_tt_1">The Platform</a>
