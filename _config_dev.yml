@@ -5,8 +5,8 @@ description: Rising senior at Cornell passionate about using data to drive strat
 url: https://tanmaybansal.com
 baseurl: ''
 email: tb444@cornell.edu
-cover: https://bchiang7.github.io/img/og.png
-resume: https://bchiang7.github.io/resume.pdf
+# cover: https://bchiang7.github.io/img/og.png
+# resume: https://bchiang7.github.io/resume.pdf
 social:
   - title: email
     url: mailto:tb444@cornell.edu
