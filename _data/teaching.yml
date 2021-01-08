@@ -2,7 +2,13 @@
   url: https://cornelldatascience.github.io/info1998/
   time: Spring 2019, Fall 2019, Spring 2020
   position: Lecturer
-  description: Ran an official course to impart fundamental implementation-based data science skills.
+  description: I lectured and administered an official course to impart fundamental implementation-based data science skills. In the last survey we ran, 95% students rated my teaching effectiveness as 4 or higher, and 100% rated my enthusiasm as 4 or higher (both out of 5).
+
+- company: Data Analytics for Information Science (INFO 3950)
+  url: https://www.cs.cornell.edu/~ginsparg/3950/fa19/syllabus.html
+  time: Spring 2021 (<a href="https://infosci.cornell.edu/content/ginsparg">P. Ginsparg</a>)
+  position: Teaching Assistant 
+  description: Machine learning, statistical inference
 
 - company: Text Mining for History and Literature (INFO 3350 / INFO 6350)
   url: https://mimno.infosci.cornell.edu/info3350/
@@ -13,14 +19,5 @@
 - company: Intro to Computing using Python (CS 1110)
   url: https://www.cs.cornell.edu/courses/cs1110/2018sp/
   time: Fall 2018 (<a href="https://www.cs.cornell.edu/~wmwhite/">W. White</a>), Spring 2019 (<a href="https://www.cs.cornell.edu/~bracy/">A. Bracy</a>)
-  position: Course Consultant
-  description: Helped introduce 650+ students from diverse academic backgrounds to Computer Science.
-
-
-# Recently, my team built a data strategy & a predictive tool to locate trafficked children for a client.
-
-# - company: Other
-#   url:
-#   time: Aug 2017 - Present
-#   position: 
-#   description: Alumni Affairs & Development, CALS Ambassadors, Cornell Cooperative Extension (Former)
+  position: Course Consultant (650+ students)
+  description: Fundamentals of computer science and programming

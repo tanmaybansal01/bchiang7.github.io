@@ -1,37 +1,37 @@
 <section class="section skills">
-  <div class="section__title">Recent Favorites</div>
+  <div class="section__title">Most Recently</div>
   <div class="section__content">
     <!-- <p>I’ve worked in analytics across a wide array of domains.</p> -->
     <div class="skillz">
       <div class="skillz__category">
         <div class="skillz__category__label">Reading</div>
         <ul>
-          {% for language in site.data.skills.languages %}
-          <li class="skillz__category__item">{{language.item}}</li>
+          {% for read in site.data.recent_favorites.reading %}
+          <li class="skillz__category__item">{{read.item}}</li>
           {% endfor %}
         </ul>
       </div>
       <div class="skillz__category">
         <div class="skillz__category__label">Watching</div>
         <ul>
-          {% for framework in site.data.skills.frameworks %}
-          <li class="skillz__category__item">{{framework.item}}</li>
+          {% for watch in site.data.recent_favorites.watching %}
+          <li class="skillz__category__item">{{watch.item}}</li>
           {% endfor %}
         </ul>
       </div>
       <div class="skillz__category">
         <div class="skillz__category__label">Listening</div>
         <ul>
-          {% for tool in site.data.skills.tools %}
-          <li class="skillz__category__item">{{tool.item}}</li>
+          {% for artist in site.data.recent_favorites.listening %}
+          <li class="skillz__category__item">{{artist.item}}</li>
           {% endfor %}
         </ul>
       </div>
       <div class="skillz__category">
         <div class="skillz__category__label">Eating</div>
         <ul>
-          {% for thing in site.data.skills.design %}
-          <li class="skillz__category__item">{{thing.item}}</li>
+          {% for food in site.data.recent_favorites.eating %}
+          <li class="skillz__category__item">{{food.item}}</li>
           {% endfor %}
         </ul>
       </div>

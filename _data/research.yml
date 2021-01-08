@@ -1,17 +1,22 @@
+- name: Ride-hailing Emissions Modeling and Reduction through Ride Demand Prediction
+  url: https://tanmaybansal.com
+  collaborators: Tanmay Bansal, Ruchika Dongre, Kassie Wang, Sam Fuchs
+  description: Studied the emissions impact of ride-hailing services, and proposed a ride demand forecasting model to reduce fleet-wide emissions by over 10%. To be released soon.
+
 - name: Behavioral Finance and COVID-19 - Cognitive Errors that Determine the Financial Future
   url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3595749
   collaborators: Tanmay Bansal
-  description: Surveyed how psychological shortcomings of investors are reflected in the market crash of 2020 and may continue to influence markets in near future. This paper is now part of the required reading for FNCE 6300 - a finance and macroeconomics course for masters students at the University of Colorado (as of Fall '20).
+  description: Surveyed how psychological shortcomings of investors reflected in the market crash of 2020 and continue to influence markets. This paper is part of the required reading for FNCE 6300 - a finance and macroeconomics course for masters students at the University of Colorado (as of Fall '20).
 
 - name: The Effects of Choice Architecture, Financial Literacy, and Financial Behaviors on Personal Savings
   url: https://cals.cornell.edu/news/tanmay-bansal-21-studying-behavioral-science-interventions
-  collaborators: Tanmay Bansal, Adrianne Han, and Miles Wittenberg
-  description: Investigated a choice architecture intervention and evaluated how financial literacy, awareness, educational attainment, and gender identity correlate with savings.
+  collaborators: Tanmay Bansal, Adrianne Han, Miles Wittenberg
+  description: Investigated a choice architecture behavioral intervention and studied how financial literacy, awareness, educational attainment, and gender identity correlate with savings.
 
 - name: Globalization - A Computational Perspective
   url: http://www.abshahid.com/
   collaborators: Research Assistant to <a href="http://www.abshahid.com/">Abdullah Shahid</a>
-  description: Drew on computational methods to study the evolution of a financial institutions as a way of better understanding how ideas and institutions globalize over time.
+  description: Drew on computational methods to study the evolution of a finance model as a way of better understanding how ideas and institutions globalize over time.
 
 
   

@@ -1,8 +1,8 @@
 - company: Cornell Data Science
   url: https://cornelldata.science/
   time: June 2018 - Present
-  position: Former Education Lead
-  description: I led an official machine learning course, workshops, and online tutorial repositories. Currently, I'm leading an undergraduate research team studying mitigation of climate change through ML-based solutions.
+  position: Full Team Lead
+  description: I lead this project team of 80+ students organized into five sub-teams - Intelligent Systems, Data Engineering, Insights, Algorithmic Trading, and Education (which I previously led).
 
 - company: Social Business Consulting
   url: https://www.sbccornell.org/
@@ -16,16 +16,14 @@
   position: Business & Design Lead
   description: I managed finances, operations, and outreach as our team built a semi-autonomous rover.
 
-
-# Recently, my team built a data strategy & a predictive tool to locate trafficked children for a client.
 - company: Tarana A Cappella
   url: https://www.cornelltarana.net/
   time: Aug 2017 - Present
   position: Beatboxer
   description: I <a href="https://www.youtube.com/watch?v=VHlzjTTcKiI&feature=emb_title">perform</a> and <a href="https://youtu.be/W0EImXTuL4Q">record</a> with my group - it's one of my favorite things on campus.
 
-- company: Other
+- company: Miscellaneous
   url:
   time: Aug 2017 - Present
   position: 
-  description: Alumni Affairs & Development, CALS Ambassadors, Cornell Cooperative Extension (Former)
+  description: Mortar Board Der Hexenkreis Senior Honor Society, Alumni Affairs & Development, CALS Ambassadors, Cornell Cooperative Extension

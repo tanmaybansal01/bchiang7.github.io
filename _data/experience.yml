@@ -1,14 +1,14 @@
 - company: Tesla
-  url: https://www.tesla.com/
+  url: https://www.tesla.com/about
   time: Aug 2020 - Jan 2020
   position: Data Science Intern
-  description: I am working with the Growth (Energy) team to generate insights that scale the business.
+  description: I helped the Growth Team generate insights that help scale current and upcoming product offerings in the Residential Products business.
 
 - company: Morgan Stanley
   url: https://www.morganstanley.com/
   time: June 2020 - Aug 2020
   position: Technology Summer Analyst
-  description: I built models with the Advanced Analytics and Machine Learning (AAML) group.
+  description: I worked in risk and fraud analytics with the Advanced Analytics and Machine Learning (AAML) group.
 
 - company: India Child Protection Fund
   url: https://www.icpf.org.in/
@@ -19,7 +19,7 @@
 - company: News Corp
   url: https://newscorp.com/
   time: June 2019 - Aug 2019
-  position: Data Product Analyst Intern (NewsIQ)
+  position: Data Product Analyst Intern
   description: I dove deep into Ad Tech by developing audience modeling algorithms from scratch.
 
 - company: Absolutdata
