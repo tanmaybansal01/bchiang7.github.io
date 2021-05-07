@@ -1,8 +1,8 @@
-- name: Ride-hailing Emissions Modeling and Reduction through Ride Demand Prediction
-  url: https://tanmaybansal.com
+- name: Ride-hailing Emissions Modeling and Reduction through Ride Demand Prediction (2021)
+  url: https://www.scitepress.org/PublicationsDetail.aspx?ID=B1zBDFJzAis=&t=1
   collaborators: Tanmay Bansal, Ruchika Dongre, Kassie Wang, Sam Fuchs
-  achievement: 7th International Conference on Vehicle Technology and Intelligent Transport Systems (Upcoming) |
-  achievement_two: Best Paper, The University of Toronto ProjectX ML Research Competition
+  achievement:  Proceedings of the 7th International Conference on Vehicle Technology and Intelligent Transport Systems - VEHITS |
+  achievement_two: Winner, The University of Toronto ProjectX ML Research Competition
   description: Studied the emissions impact of ride-hailing services, and proposed a ride demand forecasting model to reduce fleet-wide emissions by over 10%. 
 
 - name: Behavioral Finance and COVID-19 - Cognitive Errors that Determine the Financial Future
